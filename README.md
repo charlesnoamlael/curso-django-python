@@ -1,1 +1,2 @@
-# curso-django-python
+[![Build Status](https://app.travis-ci.com/charlesnoamlael/curso-django-python.svg?branch=charles_silva)](https://app.travis-ci.com/charlesnoamlael/curso-django-python)
+[![codecov](https://codecov.io/gh/charlesnoamlael/curso-django-python/branch/charles_silva/graph/badge.svg?token=SQZISPC6P7)](https://codecov.io/gh/charlesnoamlael/curso-django-python)
