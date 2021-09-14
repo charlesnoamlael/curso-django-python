@@ -7,8 +7,10 @@ name = "pypi"
 django = "*"
 flake8 = "*"
 pytest-django = "*"
+codecov = "*"
 
 [dev-packages]
+pytest-cov = "*"
 
 [requires]
 python_version = "3.9"
