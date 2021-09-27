@@ -9,6 +9,8 @@ flake8 = "*"
 pytest-django = "*"
 codecov = "*"
 python-decouple = "*"
+dj-database-url = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 pytest-cov = "*"
