@@ -3,4 +3,6 @@
 [![Updates](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/shield.svg)](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/)
 [![Python 3](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/python-3-shield.svg)](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/)
  inserido link do heroku [https://git.heroku.com/segundoprojeto.git]
-Esse Curso 
+ Esse Curso 
+ vamos nessa
+  mais uma vez
