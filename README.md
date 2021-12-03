@@ -4,3 +4,5 @@
 [![Python 3](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/python-3-shield.svg)](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/)
  inserido link do heroku [https://git.heroku.com/segundoprojeto.git]
 Esse Curso 
+Vamos testar esse push 
+para resolver nosso problema
