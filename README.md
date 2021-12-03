@@ -6,3 +6,4 @@
 Esse Curso 
 Vamos testar esse push 
 para resolver nosso problema
+problema do flake8 resolvido

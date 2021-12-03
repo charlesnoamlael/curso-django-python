@@ -136,8 +136,8 @@ COLLECTFAST_ENABLED = False
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 AWS_ACCESS_KEY_ID = config('AWS_ACCESS_KEY_ID')
+
 # STORAGE CONFIGURATION IN 3 AWS
-#------------------------------------------------------------------------
 
 if AWS_ACCESS_KEY_ID:
     AWS_SECRET_ACCESS_KEY = config('AWS_SECRET_ACCESS_KEY')
@@ -167,5 +167,3 @@ if AWS_ACCESS_KEY_ID:
 
     INSTALLED_APPS.append('s3_folder_storage')
     INSTALLED_APPS.append('storages')
-
-
