@@ -2,8 +2,6 @@
 [![codecov](https://codecov.io/gh/charlesnoamlael/curso-django-python/branch/charles_silva/graph/badge.svg?token=SQZISPC6P7)](https://codecov.io/gh/charlesnoamlael/curso-django-python)
 [![Updates](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/shield.svg)](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/)
 [![Python 3](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/python-3-shield.svg)](https://pyup.io/repos/github/charlesnoamlael/curso-django-python/)
- inserido link do heroku [https://git.heroku.com/segundoprojeto.git]
-Esse Curso 
-Vamos testar esse push 
-para resolver nosso problema
-problema do flake8 resolvido
+inserido link do heroku [https://git.heroku.com/segundoprojeto.git]
+
+#Espço
