@@ -41,38 +41,6 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:41ea196ff71ee0255ad164790319ec158fd5048de915173e8b21226650a0512f",
-                "sha256:b832c75386a4c5b7194acea1ae82dc309fddd69e660731350235d19cf70d8014"
-            ],
-            "markers": "python_version >= '3.6'",
-            "version": "==1.20.17"
-        },
-        "botocore": {
-            "hashes": [
-                "sha256:54240370476d8e67a97664d2c47df451f0e1d30e9d50ea0a88da4c2c27981159",
-                "sha256:a9753b5220b5cc1bb8078086dc8ee10aa7da482b279dd0347965e9145a557003"
-            ],
-            "markers": "python_version >= '3.6'",
-            "version": "==1.23.17"
-        },
-        "boto3": {
-            "hashes": [
-                "sha256:41ea196ff71ee0255ad164790319ec158fd5048de915173e8b21226650a0512f",
-                "sha256:b832c75386a4c5b7194acea1ae82dc309fddd69e660731350235d19cf70d8014"
-            ],
-            "markers": "python_version >= '3.6'",
-            "version": "==1.20.17"
-        },
-        "botocore": {
-            "hashes": [
-                "sha256:54240370476d8e67a97664d2c47df451f0e1d30e9d50ea0a88da4c2c27981159",
-                "sha256:a9753b5220b5cc1bb8078086dc8ee10aa7da482b279dd0347965e9145a557003"
-            ],
-            "markers": "python_version >= '3.6'",
-            "version": "==1.23.17"
-        },
-        "boto3": {
-            "hashes": [
                 "sha256:555680f12dd5cf6aa040d5693a45e14f991f05a5d81f84736653ff19b0de7e83",
                 "sha256:d917b4d2c47e02398e2815c31de8c667fb6bc840f28f1f3f54b1bb3ba4f617b2"
             ],
@@ -177,14 +145,6 @@
                 "sha256:fb8b8ee99b3fffe4fd86f4c81b35a6bf7e4462cba019997af2fe679365db0c49"
             ],
             "version": "==6.2"
-        },
-        "dj-database-url": {
-            "hashes": [
-                "sha256:4aeaeb1f573c74835b0686a2b46b85990571159ffc21aa57ecd4d1e1cb334163",
-                "sha256:851785365761ebe4994a921b433062309eb882fedd318e1b0fcecc607ed02da9"
-            ],
-            "index": "pypi",
-            "version": "==0.5.0"
         },
         "dj-database-url": {
             "hashes": [
@@ -564,10 +524,10 @@
         },
         "tomli": {
             "hashes": [
-                "sha256:c6ce0015eb38820eaf32b5db832dbc26deb3dd427bd5f6556cf0acac2c214fee",
-                "sha256:f04066f68f5554911363063a30b108d2b5a5b1a010aa8b6132af78489fe3aade"
+                "sha256:b5bde28da1fed24b9bd1d4d2b8cba62300bfb4ec9a6187a957e8ddb9434c5224",
+                "sha256:c292c34f58502a1eb2bbb9f5bbc9a5ebc37bee10ffb8c2d6bbdfa8eb13cc14e1"
             ],
-            "version": "==1.2.2"
+            "version": "==2.0.0"
         }
     }
 }
