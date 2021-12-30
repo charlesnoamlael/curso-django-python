@@ -1,4 +1,5 @@
 Lista de comandos usados
 
-git branch = Para ver as branch
+git branch       = Para ver as branch
 git branch --all = para ver todas as branch criadas incluindo as remotas
+pipenv intall
